@@ -52,6 +52,8 @@
 - https://zh.d2l.ai/chapter_linear-networks/index.html
 - B站课程（BV1gQ4y1E7iy）：
 - https://www.bilibili.com/video/BV1gQ4y1E7iy
+- 课程映射（仓库内）：
+- ../基础数学/课程映射.md
 
 ## 每个实践统一记录标题
 
